@@ -1,0 +1,1 @@
+binance_url = "https://api.binance.com"
